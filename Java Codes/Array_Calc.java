@@ -33,5 +33,6 @@ public class Array_Calc {
         array1.generate_Array(5,10);
         array1.print_Array();
         System.out.println(array1.FindRange());
+        System.out.println("Hello World");
     }
 }
