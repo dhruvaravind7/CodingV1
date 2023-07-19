@@ -84,7 +84,10 @@ public class Array_Calc {
         return (longestNum);
     }
 
+    public void StandardDeviation() {
         
+    }
+
     public static void main(String[] args) {
         Array_Calc array1 = new Array_Calc();
         array1.generate_Array(8,10);
